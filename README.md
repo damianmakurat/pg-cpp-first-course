@@ -1,4 +1,4 @@
-# pg-super-calculator
+# pg-cpp-first-course
 
 The project of a multifunctional calculator prepared for passing a first C++ course at university.
 
